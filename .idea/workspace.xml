@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e9c9901-0f1d-4ac0-81ad-7c3ec14d121e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ggrlaY1YZdcidS3qIuwhRckcS0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Project3-RTG-classification-with-GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Aluno\.conda\envs\tf\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e9c9901-0f1d-4ac0-81ad-7c3ec14d121e" name="Default Changelist" comment="" />
+      <created>1598547229411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598547229411</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-769" y="-1082" width="1092" height="787" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598712477946">
+      <screen x="-820" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="-769" y="-1082" width="1092" height="787" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-820.-1440.3440.1400@-820.-1440.3440.1400" timestamp="1598712477946" />
+    <state x="-443" y="-946" key="FileChooserDialogImpl" timestamp="1598549176515">
+      <screen x="-820" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="-443" y="-946" key="FileChooserDialogImpl/0.0.1920.1040/-820.-1440.3440.1400@-820.-1440.3440.1400" timestamp="1598549176515" />
+    <state width="1194" height="400" key="GridCell.Tab.0.bottom" timestamp="1598719492425">
+      <screen x="-820" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="1194" height="400" key="GridCell.Tab.0.bottom/0.0.1920.1040/-820.-1440.3440.1400@-820.-1440.3440.1400" timestamp="1598719492425" />
+    <state width="1194" height="400" key="GridCell.Tab.0.center" timestamp="1598719492424">
+      <screen x="-820" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="1194" height="400" key="GridCell.Tab.0.center/0.0.1920.1040/-820.-1440.3440.1400@-820.-1440.3440.1400" timestamp="1598719492424" />
+    <state width="1194" height="400" key="GridCell.Tab.0.left" timestamp="1598719492424">
+      <screen x="-820" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="1194" height="400" key="GridCell.Tab.0.left/0.0.1920.1040/-820.-1440.3440.1400@-820.-1440.3440.1400" timestamp="1598719492424" />
+    <state width="1194" height="400" key="GridCell.Tab.0.right" timestamp="1598719492425">
+      <screen x="-820" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="1194" height="400" key="GridCell.Tab.0.right/0.0.1920.1040/-820.-1440.3440.1400@-820.-1440.3440.1400" timestamp="1598719492425" />
+    <state x="823" y="-1439" width="988" height="1386" key="dock-window-1" timestamp="1598800996571">
+      <screen x="-820" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="823" y="-1439" width="988" height="1386" key="dock-window-1/0.0.1920.1040/-820.-1440.3440.1400@-820.-1440.3440.1400" timestamp="1598800996571" />
+    <state x="-560" y="-1120" width="672" height="678" key="search.everywhere.popup" timestamp="1598902509292">
+      <screen x="-820" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="-560" y="-1120" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-820.-1440.3440.1400@-820.-1440.3440.1400" timestamp="1598902509292" />
+  </component>
+</project>
