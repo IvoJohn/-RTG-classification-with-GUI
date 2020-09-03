@@ -1,1 +1,1 @@
-# Project3-RTG-classification-with-GUI
+# RTG-classification-with-GUI
